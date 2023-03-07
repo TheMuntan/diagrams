@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T17:18:21.855Z" agent="5.0 (Windows)" etag="YJL45UX8LNa0907Mr4e3" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T17:18:41.961Z" agent="5.0 (Windows)" etag="16xMlmo1cX1OKtetI8nk" version="21.0.2" type="github">
   <diagram id="EVrbKENyEVnjGAG4AELT" name="Page-1">
     <mxGraphModel dx="2440" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="rsoeOqy-VsgO8BAAmOL_-4" value="&lt;p style=&quot;line-height: 130%; font-size: 23px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Dynamics&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Engine&lt;/font&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 23px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1030" y="190" width="195" height="198.6" as="geometry" />
         </mxCell>
-        <mxCell id="rsoeOqy-VsgO8BAAmOL_-5" value="Point Cloud Generator" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;rotation=90;horizontal=0;direction=east;flipV=1;size=27.5;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="rsoeOqy-VsgO8BAAmOL_-5" value="&lt;div&gt;BEV Generator&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;rotation=90;horizontal=0;direction=east;flipV=1;size=27.5;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1340" y="257.09" width="130" height="102.19" as="geometry" />
         </mxCell>
         <mxCell id="rsoeOqy-VsgO8BAAmOL_-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
